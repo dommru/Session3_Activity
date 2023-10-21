@@ -1,0 +1,61 @@
+* {
+    font-family: "Times New Roman", "Times", serif;
+    font-kerning: none;
+    text-align: justify;
+}
+/* header */
+h1 {
+    font-family: "MedievalSharp", cursive; 
+    color: #F5DEB3; 
+    text-align: center; 
+    text-transform: uppercase; 
+    letter-spacing: 4px; 
+    text-shadow: 2px 2px 4px #000; 
+    padding: 20px; 
+    background-color: #800000; 
+    width: auto;
+    height: 50px;
+    position: relative;
+    box-shadow: 15px 15px 10px goldenrod;
+    border-color: #000;
+    border-radius: 10%;
+    outline: 2px black;
+  }
+  
+
+/*colors*/
+.stark {
+    color: azure;
+    background-color: grey;
+    text-align: center;
+}
+
+.baratheon {
+    color: #000;
+    background-color: goldenrod;
+    text-align: center;
+}
+
+.lannister {
+    color: gold;
+    background-color: #9b1c31;
+    text-align: center;
+}
+
+/* images */
+.center-image {
+    display: block;
+    margin: 0 auto;
+    max-width: 360px;
+  }
+  
+/* font */
+.style-types {
+    text-decoration: underline;
+    opacity: 0.5;
+  }
+
+.space-left {
+    padding-left: 40px;
+    hyphens: auto;
+}
